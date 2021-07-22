@@ -18,3 +18,5 @@ for (const route of routes) {
             }
 }
 ```
+
+Author: Zero Profit
