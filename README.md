@@ -10,19 +10,19 @@ const routes = [
         "handler": eventsController.add,
     },
     {
-        ser: "events.whencal.com",
-        action: "get",
-        handler: eventsController.get
+        "ser": "events.whencal.com",
+        "action": "get",
+        "handler": eventsController.get
     },
     {
-        ser: "events.whencal.com",
-        action: "update",
-        handler: eventsController.update
+        "ser": "events.whencal.com",
+        "action": "update",
+        "handler": eventsController.update
     },
     {
-        ser: "events.whencal.com",
-        action: "trash",
-        handler: eventsController.trash
+        "ser": "events.whencal.com",
+        "action": "trash",
+        "handler": eventsController.trash
     },
 ]
 ```
